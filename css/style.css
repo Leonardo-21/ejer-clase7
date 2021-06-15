@@ -1,0 +1,38 @@
+header {
+  background-color: #e6e6e6;
+  object-position: center;
+  text-align: center;
+}
+
+img.tamaño-foto {
+  width: 80px;
+  height: 80px;
+}
+
+h1.titulo {
+  color: #005677;
+  background-color: #c4c4c4;
+}
+
+span.cursiva-negrita {
+  font-style: italic;
+  font-weight: bold;
+}
+
+span.negrita-fuerte {
+  font-weight: bold;
+}
+
+div.pie-pagina {
+  background-color: #005677;
+  color: white;
+  text-align: center;
+}
+img.icon-face {
+  width: 20px;
+  height: 20px;
+}
+img.icon-likn {
+  width: 40px;
+  height: 40px;
+}
