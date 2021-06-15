@@ -4,14 +4,29 @@ header {
   text-align: center;
 }
 
-img.tamaño-foto {
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 80px;
   height: 80px;
 }
 
-h1.titulo {
+h1,
+h2 {
   color: #005677;
   background-color: #c4c4c4;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-size: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding-left: 16px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  font-weight: bold;
+  letter-spacing: 0.6ch;
+  word-spacing: 1.2ch;
 }
 
 span.cursiva-negrita {
@@ -23,7 +38,7 @@ span.negrita-fuerte {
   font-weight: bold;
 }
 
-div.pie-pagina {
+footer {
   background-color: #005677;
   color: white;
   text-align: center;
